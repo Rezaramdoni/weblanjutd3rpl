@@ -10,8 +10,8 @@
             <li class="breadcrumb-item active">Dashboard</li>
         </ol>
         <div class="card mb-4">
-            <div class="card-body">
-                Dashboard
+            <div class="card-body" style="font-size: 30px">
+                Selamat Datang
             </div>
         </div>
     </div>
